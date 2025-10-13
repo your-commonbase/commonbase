@@ -44,7 +44,9 @@ npm run db:studio    # Open Drizzle Studio
 - **Styling**: Tailwind CSS 4.0 with shadcn/ui components
 - **Database**: PostgreSQL with pgvector extension
 - **ORM**: Drizzle ORM with migrations
+- **Authentication**: NextAuth.js v4 with GitHub OAuth
 - **AI**: OpenAI API for embeddings and image transcription
+- **Visualization**: D3.js, Three.js, react-force-graph-3d for graph rendering
 - **Fonts**: Geist Sans and Geist Mono from next/font/google
 
 ### Project Structure
@@ -64,10 +66,16 @@ npm run db:studio    # Open Drizzle Studio
 - `POST /api/delete` - Delete entries and associated embeddings
 - `GET /api/list` - Paginated entry listing for ledger
 - `POST /api/join` - Link entries together with bidirectional references
+- `POST /api/similarities` - Find similar entries using vector embeddings
+- `POST /api/embeddings` - Generate embeddings for text content
+- `POST /api/fetch-url-title` - Extract title from URL
+- `POST /api/auth/[...nextauth]` - NextAuth.js authentication endpoints
 
 ### Database Schema (Implemented)
 - `commonbase` table: `id` (UUID), `data` (text), `metadata` (JSON), `created`, `updated`
 - `embeddings` table: `id` (UUID FK), `embedding` (vector[1536])
+- NextAuth.js tables: `user`, `account`, `session`, `verificationToken`
+- `userApiKey` table: User-specific API keys for authentication
 - Full-text search enabled on `data` field
 - Cascade deletion from commonbase to embeddings
 
@@ -79,6 +87,10 @@ npm run db:studio    # Open Drizzle Studio
 - `/add` - Text and image upload with AI transcription
 - `/feed` - Infinite scroll random discovery
 - `/share` - Cart management and AI synthesis
+- `/graph` - 3D force-directed graph visualization of entries
+- `/api-keys` - User API key management (when authentication enabled)
+- `/auth/signin` - Authentication sign-in page
+- `/auth/error` - Authentication error handling
 
 ## Configuration Notes
 
@@ -87,6 +99,10 @@ npm run db:studio    # Open Drizzle Studio
 - ESLint configured with Next.js recommended settings
 - Tailwind CSS 4.0 with inline theme configuration
 - Dark/light mode support via CSS custom properties
+- Authentication middleware protects routes when `NEXTAUTH_URL` is configured
+- Demo mode can be enabled with `DISABLE_ADD=true` environment variable
+- Database URL configured via `DATABASE_URL` environment variable
+- OpenAI API key required for embedding generation and image transcription
 
 ## API Reference
 
@@ -197,5 +213,32 @@ This is a fully implemented knowledge management system built according to the s
 1. **Database**: PostgreSQL with pgvector extension
 2. **Environment**: OpenAI API key for AI features
 3. **Dependencies**: All packages installed and configured
+4. **Authentication** (Optional): GitHub OAuth app credentials for NextAuth.js
 
 See `setup.md` for detailed setup instructions.
+
+## Key Architectural Patterns
+
+### Authentication Flow
+- Optional authentication using NextAuth.js with GitHub OAuth
+- Middleware (`src/middleware.ts`) protects routes when authentication is enabled
+- User-specific API keys stored in `userApiKey` table for programmatic access
+- Routes are public by default unless `NEXTAUTH_URL` is configured
+
+### Data Flow
+- Entries stored in `commonbase` table with JSON metadata
+- Embeddings generated via OpenAI API and stored in separate `embeddings` table
+- Vector similarity search using pgvector extension
+- Full-text search using PostgreSQL's built-in FTS capabilities
+
+### Component Architecture
+- Shadcn/ui components for consistent UI patterns
+- React components in `src/components/` directory
+- Utility functions in `src/lib/` for database, auth, and AI operations
+- Custom hooks for cart management and API operations
+
+### API Design
+- RESTful API endpoints in `src/app/api/` using Next.js App Router
+- Consistent error handling and response formats
+- Support for both authenticated and unauthenticated access
+- Bulk operations for efficiency (batch delete, cart management)
