@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23F79" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="Entry" representedClassName="Entry" syncable="YES" codeGenerationType="class">
+        <attribute name="content" optional="NO" attributeType="String"/>
+        <attribute name="contentType" optional="NO" attributeType="String" defaultValueString="text"/>
+        <attribute name="createdAt" optional="NO" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="id" optional="NO" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="imageData" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES"/>
+        <attribute name="metadata" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[String: Any]"/>
+        <attribute name="sourceApplication" optional="YES" attributeType="String"/>
+        <attribute name="sourceBundleId" optional="YES" attributeType="String"/>
+        <attribute name="sourceURL" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="updatedAt" optional="NO" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="embeddings" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="EntryEmbedding" inverseName="entry" inverseEntity="EntryEmbedding"/>
+        <relationship name="linkedEntries" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Entry" inverseName="backlinks" inverseEntity="Entry"/>
+        <relationship name="backlinks" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Entry" inverseName="linkedEntries" inverseEntity="Entry"/>
+    </entity>
+    <entity name="EntryEmbedding" representedClassName="EntryEmbedding" syncable="YES" codeGenerationType="class">
+        <attribute name="embedding" optional="NO" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="[Float]"/>
+        <attribute name="id" optional="NO" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="model" optional="NO" attributeType="String" defaultValueString="text-embedding-3-small"/>
+        <attribute name="createdAt" optional="NO" attributeType="Date" usesScalarValueType="NO"/>
+        <relationship name="entry" optional="NO" maxCount="1" deletionRule="Nullify" destinationEntity="Entry" inverseName="embeddings" inverseEntity="Entry"/>
+    </entity>
+</model>
