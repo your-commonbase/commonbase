@@ -1,0 +1,32 @@
+{
+  "source": "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/Views/LedgerView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Ledger",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Entry",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select an entry to view details",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 38
+        }
+      }
+    ]
+  },
+  "version": 1
+}

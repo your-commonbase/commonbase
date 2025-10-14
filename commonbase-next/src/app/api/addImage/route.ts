@@ -50,7 +50,6 @@ async function transcribeImage(imagePath: string): Promise<string> {
   if (!response.ok) {
     throw new Error(`OpenAI API error: ${response.status}`);
   }
-
   const data = await response.json();
   return data.choices[0].message.content;
 }

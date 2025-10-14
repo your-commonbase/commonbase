@@ -1,0 +1,19 @@
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/Commonbase\ Mac/Models/ApplicationContext.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/Commonbase\ Mac/Models/PersistenceController.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/Commonbase\ Mac/Services/DataCaptureService.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/Commonbase\ Mac/Services/EmbeddingService.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/Commonbase\ Mac/Services/EventMonitor.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/Commonbase\ Mac/Views/EntryDetailView.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/Commonbase\ Mac/Views/GraphView.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/Commonbase\ Mac/Views/LedgerView.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/Commonbase\ Mac/Views/ScreenSelectionWindow.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/Commonbase\ Mac/Views/SearchView.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/Commonbase\ Mac/Views/SettingsView.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/Commonbase\ Mac/CommonbaseMacApp.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/Commonbase\ Mac/ContentView.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/build/Commonbase\ Mac.build/Debug/Commonbase\ Mac.build/DerivedSources/CoreDataGenerated/CommonbaseDataModel/Entry+CoreDataClass.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/build/Commonbase\ Mac.build/Debug/Commonbase\ Mac.build/DerivedSources/CoreDataGenerated/CommonbaseDataModel/Entry+CoreDataProperties.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/build/Commonbase\ Mac.build/Debug/Commonbase\ Mac.build/DerivedSources/CoreDataGenerated/CommonbaseDataModel/EntryEmbedding+CoreDataClass.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/build/Commonbase\ Mac.build/Debug/Commonbase\ Mac.build/DerivedSources/CoreDataGenerated/CommonbaseDataModel/EntryEmbedding+CoreDataProperties.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/build/Commonbase\ Mac.build/Debug/Commonbase\ Mac.build/DerivedSources/CoreDataGenerated/CommonbaseDataModel/CommonbaseDataModel+CoreDataModel.swift
+/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase\ Mac/build/Commonbase\ Mac.build/Debug/Commonbase\ Mac.build/DerivedSources/GeneratedAssetSymbols.swift

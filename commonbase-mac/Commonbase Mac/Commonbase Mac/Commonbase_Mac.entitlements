@@ -4,7 +4,41 @@
 <dict>
 	<key>com.apple.security.app-sandbox</key>
 	<true/>
-	<key>com.apple.security.files.user-selected.read-only</key>
+	<key>com.apple.security.network.client</key>
 	<true/>
+	<key>com.apple.security.network.server</key>
+	<false/>
+	<key>com.apple.security.files.user-selected.read-write</key>
+	<true/>
+	<key>com.apple.security.files.downloads.read-write</key>
+	<true/>
+	<key>com.apple.security.automation.apple-events</key>
+	<true/>
+	<key>com.apple.security.scripting-targets</key>
+	<dict>
+		<key>com.apple.Safari</key>
+		<array>
+			<string>com.apple.safari.allow</string>
+		</array>
+		<key>com.google.Chrome</key>
+		<array>
+			<string>com.google.chrome.allow</string>
+		</array>
+		<key>com.macromates.TextMate</key>
+		<array>
+			<string>com.macromates.textmate.allow</string>
+		</array>
+		<key>com.apple.finder</key>
+		<array>
+			<string>com.apple.finder.allow</string>
+		</array>
+	</dict>
+	<key>com.apple.security.temporary-exception.apple-events</key>
+	<array>
+		<string>com.apple.Safari</string>
+		<string>com.google.Chrome</string>
+		<string>com.macromates.TextMate</string>
+		<string>com.apple.finder</string>
+	</array>
 </dict>
 </plist>

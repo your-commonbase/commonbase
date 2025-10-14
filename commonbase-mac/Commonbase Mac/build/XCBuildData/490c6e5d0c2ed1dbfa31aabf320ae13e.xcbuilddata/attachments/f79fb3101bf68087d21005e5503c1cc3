@@ -1,0 +1,198 @@
+{
+  "" : {
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Commonbase Mac-master.dia",
+    "emit-module-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Commonbase Mac-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Commonbase Mac-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Commonbase Mac-master.swiftdeps"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/DerivedSources/CoreDataGenerated/CommonbaseDataModel/CommonbaseDataModel+CoreDataModel.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseDataModel+CoreDataModel.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseDataModel+CoreDataModel.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseDataModel+CoreDataModel.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseDataModel+CoreDataModel.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseDataModel+CoreDataModel.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseDataModel+CoreDataModel.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseDataModel+CoreDataModel.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseDataModel+CoreDataModel~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/DerivedSources/CoreDataGenerated/CommonbaseDataModel/Entry+CoreDataClass.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataClass.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataClass.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataClass.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataClass.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataClass.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/DerivedSources/CoreDataGenerated/CommonbaseDataModel/Entry+CoreDataProperties.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataProperties.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataProperties.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataProperties.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataProperties.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/Entry+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/DerivedSources/CoreDataGenerated/CommonbaseDataModel/EntryEmbedding+CoreDataClass.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataClass.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataClass.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataClass.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataClass.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataClass.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/DerivedSources/CoreDataGenerated/CommonbaseDataModel/EntryEmbedding+CoreDataProperties.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataProperties.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataProperties.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataProperties.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataProperties.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryEmbedding+CoreDataProperties~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/CommonbaseMacApp.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseMacApp.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseMacApp.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseMacApp.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseMacApp.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseMacApp.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseMacApp.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseMacApp.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/CommonbaseMacApp~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/ContentView.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/Models/ApplicationContext.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ApplicationContext.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ApplicationContext.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ApplicationContext.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ApplicationContext.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ApplicationContext.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ApplicationContext.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ApplicationContext.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ApplicationContext~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/Models/PersistenceController.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/PersistenceController.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/PersistenceController.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/PersistenceController.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/PersistenceController.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/PersistenceController.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/PersistenceController.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/PersistenceController.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/PersistenceController~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/Services/DataCaptureService.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/DataCaptureService.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/DataCaptureService.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/DataCaptureService.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/DataCaptureService.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/DataCaptureService.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/DataCaptureService.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/DataCaptureService.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/DataCaptureService~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/Services/EmbeddingService.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EmbeddingService.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EmbeddingService.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EmbeddingService.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EmbeddingService.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EmbeddingService.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EmbeddingService.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EmbeddingService.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EmbeddingService~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/Services/EventMonitor.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EventMonitor.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EventMonitor.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EventMonitor.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EventMonitor.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EventMonitor.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EventMonitor.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EventMonitor.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EventMonitor~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/Views/EntryDetailView.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryDetailView.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryDetailView.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryDetailView.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryDetailView.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryDetailView.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryDetailView.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryDetailView.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/EntryDetailView~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/Views/GraphView.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GraphView.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GraphView.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GraphView.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GraphView.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GraphView.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GraphView.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GraphView.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/GraphView~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/Views/LedgerView.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/LedgerView.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/LedgerView.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/LedgerView.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/LedgerView.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/LedgerView.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/LedgerView.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/LedgerView.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/LedgerView~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/Views/ScreenSelectionWindow.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ScreenSelectionWindow.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ScreenSelectionWindow.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ScreenSelectionWindow.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ScreenSelectionWindow.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ScreenSelectionWindow.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ScreenSelectionWindow.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ScreenSelectionWindow.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/ScreenSelectionWindow~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/Views/SearchView.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SearchView.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SearchView.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SearchView.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SearchView.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SearchView.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SearchView.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SearchView.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SearchView~partial.swiftmodule"
+  },
+  "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/Commonbase Mac/Views/SettingsView.swift" : {
+    "const-values" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SettingsView.d",
+    "diagnostics" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SettingsView.dia",
+    "index-unit-output-path" : "/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SettingsView.o",
+    "llvm-bc" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SettingsView.bc",
+    "object" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SettingsView.o",
+    "swift-dependencies" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/bram/Dropbox/PARA/Projects/ycb/architecture/commonbase-mac/Commonbase Mac/build/Commonbase Mac.build/Debug/Commonbase Mac.build/Objects-normal/x86_64/SettingsView~partial.swiftmodule"
+  }
+}
